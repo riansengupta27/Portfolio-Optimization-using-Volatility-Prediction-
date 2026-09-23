@@ -1,0 +1,6 @@
+# Personal job-search data never leaves this machine
+data/
+output/
+__pycache__/
+*.pyc
+.env
